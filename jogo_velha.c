@@ -1,9 +1,5 @@
 /* ========================================================================== */
-/* UNIVERSIDADE FEDERAL DO PARANÁ - UFPR                                      */
-/* SETOR DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA - SEPT                        */
-/* TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS                        */
-/* ESTRUTURA DE DADOS I - Profa. Dra. Andreia de Jesus                        */
-/* 1º TRABALHO PRÁTICO - JOGO DA VELHA                                        */
+/* UNIVERSIDADE FEDERAL DO PARANÁ - UFPR                                      */                                      */
 /*                                                                            */
 /* REFERÊNCIA DO ALGORITMO DO COMPUTADOR:                  */
 /* Estratégia: Seleção Aleatória de Posições (Random Move / Rejection)        */
